@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kids Games</string>
+    <string name="math_less_than_35_message">Hi %s, you score %2$d points in %3$d
+    attempts. Not so good, you can practice some more math.</string>
+    <string name="math_less_than_75_message">Hi %s, you score %2$d points in %3$d
+    attempts. Good score! Try again for more points.</string>
+    <string name="math_more_than_75_message">Hi %s, you score %2$d points in %3$d
+    attempts. Excellent! Brilliant mathematician!</string>
+
+
+    <string name="card_less_than_20_message">Hi %s, you score %2$d points in %3$d
+        attempts. Not so good, you may try again.</string>
+    <string name="card_less_than_40_message">Hi %s, you score %2$d points in %3$d
+        attempts. Good score! Try again for more points.</string>
+    <string name="card_more_than_40_message">Hi %s, you score %2$d points in %3$d
+    attempts. Excellent!</string>
+</resources>
